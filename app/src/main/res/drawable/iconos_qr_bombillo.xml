@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--  icono izquierda -->
+<item
+    android:id="@+id/Bombillo"
+    android:drawable="@drawable/icon_bombillo"
+    android:gravity="start|center_horizontal"
+    android:width="24dp"
+    android:height="24dp"
+    android:left="1dp" />
+
+<!-- icono derecha -->
+    <item
+        android:drawable="@drawable/icon_qr"
+        android:id="@+id/QR"
+        android:gravity="end|center_horizontal"
+        android:width="24dp"
+        android:height="24dp"
+        android:right="-200dp" />
+
+</layer-list>

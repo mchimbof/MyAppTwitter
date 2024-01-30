@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--Opciones Basica-->
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/Perfil"
+            android:icon="@drawable/icon_person"
+            android:title="Perfil"/>
+        <item
+            android:id="@+id/Listas"
+            android:icon="@drawable/icon_listas"
+            android:title="Listas"/>
+        <item
+            android:id="@+id/Temas"
+            android:icon="@drawable/icon_temas"
+            android:title="Temas"/>
+        <item
+            android:id="@+id/Elementos"
+            android:icon="@drawable/icon_guardado"
+            android:title="Elementos guardados"/>
+        <item
+            android:id="@+id/Momentos"
+            android:icon="@drawable/icon_momento"
+            android:title="Momentos"/>
+        <item
+            android:id="@+id/Ads"
+            android:icon="@drawable/icon_ads"
+            android:title="Twitter Ads" />
+    </group>
+
+    <!--Config y Help-->
+    <group>
+        <item
+            android:id="@+id/Privacidad"
+            android:icon="@drawable/icon_setting"
+            android:title="Configuracion y privacidad"/>
+        <item
+            android:id="@+id/Ayuda"
+            android:icon="@drawable/icon_help"
+            android:title="Centro de Ayuda"/>
+    </group>
+
+    <!--QR-->
+    <group>
+        <item
+            android:icon="@drawable/iconos_qr_bombillo" />
+    </group>
+</menu>
+
