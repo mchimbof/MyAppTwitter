@@ -1,1 +1,3 @@
-![Captura](https://github.com/mchimbof/MyAppTwitter/assets/26042473/de9843e3-ae71-4d90-a9e0-dcebcbad1de1)
+![Captura](https://github.com/mchimbof/MyAppTwitter/assets/26042473/856911a8-bd85-4113-85cf-eabe248c243c)
+_ 
+![Captura_Emulador](https://github.com/mchimbof/MyAppTwitter/assets/26042473/b476a9d5-c6fb-42c8-9363-085359965d54)
